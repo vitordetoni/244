@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que é uma variavel em programação?',
-    'e um espaço na memoria do computador para armazenar '
+    'E um espaço na memoria do computador'
 )
 
 criaCartao(
@@ -12,18 +12,29 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'Qual sua cor favorita?',
-    'preto'
+    'Quais são os 4 pilares da programação?',
+    'Abstração, encapsulamento, herança, polimorfismo'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Espanhol?',
-    'Oi em espamhol é hola'
+    'Como se diz oi em ingles?',
+    'Oi em ingles é hey'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Voce estuda?',
-    'sim'
+    'lingua espanhola',
+    'Como se fala lanche em espanhol?',
+    'Se fala merienda'
+)  
+
+criaCartao( 
+'Geografia',    
+'Qual a idade da terra',
+'Aproximadamente 4,3 bilhões de anos'
+
+)
+criaCartao(
+    ''
+
 )
